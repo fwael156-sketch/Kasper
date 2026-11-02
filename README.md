@@ -1,2 +1,0 @@
-# Kasper
-A Simple Template
